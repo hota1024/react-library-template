@@ -1,0 +1,15 @@
+{
+  "inputs": [
+    "name",
+    "description",
+    "repository",
+    {
+      "name": "license",
+      "default": "MIT"
+    }
+  ],
+  "replaces": ["**/*.ts", "package.json", "README.md"],
+  "hooks": {
+    "created": "yarn"
+  }
+}

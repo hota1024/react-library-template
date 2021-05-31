@@ -1,11 +1,11 @@
 {
-  "name": "react-library-template",
+  "name": "{name.param}",
   "version": "0.0.0",
-  "license": "MIT",
-  "description": "React UI library template.",
+  "license": "{license}",
+  "description": "{description}",
   "repository": {
     "type": "git",
-    "url": "hota1024/react-library-template"
+    "url": "{repository}"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

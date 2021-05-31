@@ -1,1 +1,1 @@
-# react-library-template
+# {name}
