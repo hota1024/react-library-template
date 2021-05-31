@@ -9,6 +9,7 @@
 		"esModuleInterop": true,
 		"outDir": "dist",
 		"baseUrl": ".",
+		"jsx": "react",
 		"paths": {
 			"@/*": ["src/*"]
 		}
